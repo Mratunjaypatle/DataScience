@@ -18,7 +18,7 @@
 # True and False 
 himanshu_age = 18
 
-# if conditions
+# if conditions : 
     # print()
 
 if himanshu_age >= 18 : 
@@ -63,3 +63,16 @@ elif chetan > 50 :
     print("Grade C")
 else :
     print("Fail")
+    
+# Positive negative number
+
+num = 0 
+
+if num > 0 : 
+    print(num ,  "is positive number")
+elif num == 0 :
+    print("Number is Zero")
+else : 
+    print(num , "is negative number")
+    
+# Error -> Syntax error , logical error 
