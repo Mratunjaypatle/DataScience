@@ -75,3 +75,28 @@ else :
     print("student can not take admission")
    
   
+# not -> It returns the opposite result of the final result .. 
+
+value  = True 
+print(not value)
+
+compareValue = 10 > 20 
+print("The result is " , not compareValue)
+ 
+ 
+print("---------------login system--------------------")
+
+ 
+ 
+islogin = False
+
+if username == "satyam_mehta" and password == "satyam@123" :
+    islogin = True 
+
+print(islogin)    
+ 
+
+if not islogin :
+    print("user login unsuccessfully")
+    
+    
