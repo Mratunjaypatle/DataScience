@@ -61,3 +61,6 @@ def sayThanks (name = "Priya") :
 
 sayThanks()
 sayThanks("Aman")
+
+
+sum(100,98)
