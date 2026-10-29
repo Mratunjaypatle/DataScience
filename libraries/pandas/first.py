@@ -52,6 +52,5 @@ print(df.columns.tolist())
 
 # print(df.info())
 missingValues = df.isnull().sum().sum()
-print(missingValues)
 print(f"There are {missingValues} missing values in the data")
 
