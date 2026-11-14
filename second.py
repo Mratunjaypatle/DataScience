@@ -17,3 +17,7 @@ print("the login status of user is" ,isLoggedIn)
 print(type(name))
 print(type(age))
 print(type(isLoggedIn))
+
+'''
+list , tuple , set , dictionary
+'''
