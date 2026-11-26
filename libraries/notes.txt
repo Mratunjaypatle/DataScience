@@ -1,0 +1,6 @@
+Libraries -> numpy , pandas , matplotlib 
+numpy -> perform mathematical functions with the data like array .. 
+pandas -> situate , store and ,manipulate the data 
+matplotlib -> visualise the data 
+
+libraries > collection of multiple classes , and  functions 

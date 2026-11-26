@@ -1,14 +1,23 @@
-instagramUsername = input("Enter the username :")
-instagramPassword = input("Enter the password :")
+Username = input("Enter the username :")
+Password = input("Enter the password :")
 
 
-def userLogin (Username , Password) :
-        if Username == instagramUsername and  Password == instagramPassword :
-            return "User login successfull "
+def userLogin (username , password) :
+        if username == Username and  password == Password :
+            return "login successfull "
         else :
-              return "User login unsucessfully"
-instagram = userLogin("aman_09" , "aman@123")
-print(instagram)
+              return "login unsucessfully"
+        
+# instagram = userLogin("aman_09" , "aman@123")
+# print("Instagram user " + instagram)
+
+facebook = userLogin("ashish_123" , "ashish@123")
+print("Facebook user " + facebook)
+
+
+
+
+
 
 
 
