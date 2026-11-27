@@ -4,3 +4,6 @@ pandas -> situate , store and ,manipulate the data
 matplotlib -> visualise the data 
 
 libraries > collection of multiple classes , and  functions 
+
+
+collection of the multiple predefined class and the packages and functions
